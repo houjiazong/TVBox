@@ -1,17 +1,32 @@
 {
-  "vodPic": "https://s1.ax1x.com/2023/05/04/p9tgI81.png",
-  "drives": [
+  "spider":"./jar/fan.txt;md5;a4c63fe74439b399ccd4eaaf4c639588",
+  "sites": [
     {
-      "name": "小雅",
-      "server": "http://alist.xiaoya.pro"
-    },
-    {
-      "name": "seaxin",
-      "server": "https://seaxin-a.hf.space"
-    },
-    {
-      "name": "18",
-      "server": "https://a74d291e-3b91-45a5-9ec6-9f08a9178e59.id.repl.co"
+      "key": "csp_Alist",
+      "name": "Alist",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": {
+        "vodPic": "https://s1.ax1x.com/2023/05/04/p9tgI81.png",
+        "drives": [
+          {
+            "name": "小雅",
+            "server": "http://alist.xiaoya.pro"
+          },
+          {
+            "name": "seaxin",
+            "server": "https://seaxin-a.hf.space"
+          },
+          {
+            "name": "18",
+            "server": "https://a74d291e-3b91-45a5-9ec6-9f08a9178e59.id.repl.co"
+          }
+        ]
+      }
     }
   ]
 }
